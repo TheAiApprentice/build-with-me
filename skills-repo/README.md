@@ -34,3 +34,5 @@ and rename the file to SKILL.md (for example `song-with-me/SKILL.md`).
 | [ship-with-me.md](ship-with-me.md) | Turn a finished Blender asset into a checked Unity-ready pack. | From a Blender Model to a Unity Asset |
 | [campaign-with-me.md](campaign-with-me.md) | Plan a small campaign one step at a time. Show real results. Take my tweaks. | Run a Marketing Campaign With AI |
 | [tutor-with-me.md](tutor-with-me.md) | Teach me one small thing at a time, quiz me, and show me how to check you. | Learn Anything With an AI Tutor (and Catch It When It's Wrong) |
+| [second-brain-with-me.md](second-brain-with-me.md) | Work from my notes vault only, and always name the note you used. | Your Own AI Second Brain With Obsidian |
+| [photo-to-3d-print-with-me.md](photo-to-3d-print-with-me.md) | Turn one photo into a printable 3D model on my PC, checking each step. | Design It With AI, Then 3D Print It |
